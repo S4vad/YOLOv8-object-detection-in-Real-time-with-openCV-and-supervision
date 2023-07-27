@@ -1,0 +1,1 @@
+[# YOLOv8-object-detection-in-Real-time-with-openCV-and-supervision](https://github.com/S4vad/YOLOv8-object-detection-in-Real-time-with-openCV-and-supervision.git)https://github.com/S4vad/YOLOv8-object-detection-in-Real-time-with-openCV-and-supervision.git
