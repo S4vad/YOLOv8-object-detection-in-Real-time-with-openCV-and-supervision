@@ -27,5 +27,12 @@ This repository contains an implementation of YOLOv8 for real-time object detect
 
    ```bash
    git clone [https://github.com/yourusername/YOLOv8-object-detection.git](https://github.com/S4vad/YOLOv8_object_detection_in_Real-time_web-cam_with_openCV_and_supervision.git)https://github.com/S4vad/YOLOv8_object_detection_in_Real-time_web-cam_with_openCV_and_supervision.git
+
+
+
+# Downlaod YOLOv8 weights 
+
+wget https://yolov8-weights-url/ -O weights/yolov8.weights
+
    
 
