@@ -17,6 +17,7 @@ This repository contains an implementation of YOLOv8 for real-time object detect
 
 - Python 3.6+
 - OpenCV 4.5+ (with video support)
+- supervision 0.3.0
 - numpy
 - torch >= 1.9.0
 - torchvision >= 0.10.0
@@ -30,9 +31,7 @@ This repository contains an implementation of YOLOv8 for real-time object detect
 
 
 
-# Downlaod YOLOv8 weights 
 
-wget https://yolov8-weights-url/ -O weights/yolov8.weights
 
    
 
